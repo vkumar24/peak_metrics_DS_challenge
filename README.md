@@ -1,6 +1,7 @@
 # PeakMetric DS Challenge
 
 INTRODUCTION
+
 This project focuses on answering below questions:
 Large US based airline
 ● Biggest worry - viral negative social media posts hurting the brand
@@ -11,9 +12,11 @@ competitors
 don’t explicitly reference them, and identifying trends before they become obvious.
 
 USAGE
+
 run the main.py file to generate outputs
 
 Features
+
 Data Loading
 Data Preprocessing
 Sentiment Computation
@@ -23,10 +26,12 @@ Topic Modelling
 Text Similarity 
 
 Build With
+
 Python
 Pycharm
 JupterNotebook
 
 
 Authors
+
 Vikas Kumar
