@@ -22,16 +22,21 @@ run the main.py file to generate outputs
 
 Features
 
-Data Loading
-Data Preprocessing
-Sentiment Computation
-Feature Engineering
-Named Entity Recognition
-Topic Modelling
-Text Similarity 
+1. Data Loading
+
+2. Data Preprocessing
+
+3. Sentiment Computation
+
+4. Feature Engineering
+
+5. Named Entity Recognition
+
+6. Topic Modelling
+
+7. Text Similarity 
 
 Build With
-
 Python
 Pycharm
 JupterNotebook
