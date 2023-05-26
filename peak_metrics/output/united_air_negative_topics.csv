@@ -1,0 +1,6 @@
+TopicID,Keywords,Weights
+0,"unit, airlin, flight, http, passeng, son, plane, peanut, complaint, allergi","0.046, 0.039, 0.02, 0.014, 0.009, 0.007, 0.006, 0.005, 0.005, 0.005"
+1,"airlin, unit, airport, flight, http, lhr, intern, oper, travel, type","0.051, 0.045, 0.023, 0.022, 0.018, 0.015, 0.013, 0.011, 0.01, 0.009"
+2,"airlin, unit, http, flight, peopl, airport, death, american, worldwid, covid","0.05, 0.043, 0.034, 0.027, 0.012, 0.011, 0.009, 0.009, 0.009, 0.009"
+3,"unit, airlin, flight, http, land, passeng, plane, airport, anthonybass, custom","0.065, 0.055, 0.037, 0.021, 0.01, 0.008, 0.008, 0.007, 0.006, 0.006"
+4,"unit, airlin, flight, http, plane, hour, passeng, travel, delai, forc","0.054, 0.043, 0.025, 0.016, 0.014, 0.014, 0.008, 0.007, 0.007, 0.006"

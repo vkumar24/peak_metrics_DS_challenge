@@ -1,0 +1,6 @@
+TopicID,Keywords,Weights
+0,"unit, airlin, flight, boe, land, http, takeoff, emerg, window, cockpit","0.086, 0.082, 0.039, 0.02, 0.02, 0.014, 0.013, 0.013, 0.011, 0.011"
+1,"unit, airlin, travel, flight, airport, http, intern, demand, lhr, failur","0.06, 0.056, 0.034, 0.026, 0.025, 0.022, 0.021, 0.017, 0.013, 0.012"
+2,"airlin, unit, flight, http, feet, ual, spot, travel, declar, largest","0.118, 0.118, 0.109, 0.106, 0.099, 0.099, 0.098, 0.002, 0.002, 0.002"
+3,"unit, airlin, flight, passeng, new, http, turn, hour, israel, travel","0.073, 0.063, 0.057, 0.021, 0.019, 0.016, 0.016, 0.016, 0.013, 0.013"
+4,"unit, airlin, flight, airport, jessi, jame, sister, http, decker, land","0.066, 0.053, 0.039, 0.027, 0.023, 0.023, 0.023, 0.022, 0.022, 0.015"
