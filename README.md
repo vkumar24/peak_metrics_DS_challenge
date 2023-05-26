@@ -3,7 +3,9 @@
 INTRODUCTION
 
 This project focuses on answering below questions:
+
 Large US based airline
+
 ● Biggest worry - viral negative social media posts hurting the brand
 ● Wants to know more about common topics happening about the brand and the industry
 ● Within digital media topics, what are the differentiating factors between their brand and
