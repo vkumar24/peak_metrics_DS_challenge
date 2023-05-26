@@ -37,10 +37,12 @@ Features
 7. Text Similarity 
 
 Build With
-Python
-Pycharm
-JupterNotebook
 
+Python
+
+Pycharm
+
+JupterNotebook
 
 Authors
 
